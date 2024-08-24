@@ -1,26 +1,27 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: o3o-ca # Your GitHub organization or username, where this repository lives
+repo: o3o-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: O3O.ca (Mastodon)
+    url: https://o3o.ca
+  - name: Mastodon.im (Mastodon)
+    url: https://mastodon.im
+  - name: Writee (Writefreely)
+    url: https://writee.org
+  - name: O3O Cafe (Matrix)
     check: "tcp-ping"
-    ipv6: true
+    url: matrix.o3o.cafe
+    port: 443
+  - name: Blog.edu.kg (WordPress)
+    url: https://blog.edu.kg
+  - name: o3o.foundation
+    url: https://o3o.foundation
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.o3o.foundation
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
