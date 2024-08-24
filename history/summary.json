@@ -76,19 +76,19 @@
     "url": "https://blog.edu.kg",
     "icon": "https://icons.duckduckgo.com/ip3/blog.edu.kg.ico",
     "slug": "blog-edu-kg-word-press",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1900,
-    "timeDay": 1900,
-    "timeWeek": 1900,
-    "timeMonth": 1900,
-    "timeYear": 1900,
+    "status": "up",
+    "uptime": "97.92%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "97.92%",
+    "uptimeYear": "97.92%",
+    "time": 2042,
+    "timeDay": 2042,
+    "timeWeek": 2042,
+    "timeMonth": 2042,
+    "timeYear": 2042,
     "dailyMinutesDown": {
-      "2024-08-24": 0
+      "2024-08-24": 22
     }
   },
   {
