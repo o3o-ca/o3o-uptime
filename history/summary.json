@@ -40,19 +40,19 @@
     "url": "https://writee.org",
     "icon": "https://icons.duckduckgo.com/ip3/writee.org.ico",
     "slug": "writee-writefreely",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 691,
-    "timeDay": 774,
-    "timeWeek": 701,
-    "timeMonth": 691,
-    "timeYear": 691,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 702,
+    "timeDay": 791,
+    "timeWeek": 715,
+    "timeMonth": 702,
+    "timeYear": 702,
     "dailyMinutesDown": {
-      "2024-09-02": 19
+      "2024-09-02": 27
     }
   },
   {
