@@ -79,7 +79,7 @@
     "url": "https://blog.edu.kg",
     "icon": "https://icons.duckduckgo.com/ip3/blog.edu.kg.ico",
     "slug": "blog-edu-kg-word-press",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -91,6 +91,7 @@
     "timeMonth": 1677,
     "timeYear": 1707,
     "dailyMinutesDown": {
+      "2024-09-28": 0,
       "2024-09-15": 52,
       "2024-09-06": 57,
       "2024-08-24": 48
