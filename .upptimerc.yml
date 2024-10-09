@@ -24,10 +24,12 @@ status-website:
   cname: status.o3o.foundation
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: O3O 服务状态监控页
+  introTitle: "[O3O.Foundation](https://o3o.foundation/) 是位于加拿大的非盈利服务，我们主要为全球的中文用户服务。我们相信由社会组织运营基本通讯软件和设施是必要的，它们不应被控制在大型企业和政府手中。"
+  introMessage: [O3O.Foundation](https://o3o.foundation/) is a non-profit online service based in Canada. We serve primarily Chinese language users worldwide by providing privacy-conscious services and tools. We believe that it is necessary for social organizations to operate communication platforms and infrastructure, and that they should not be controlled by large corporations and governments.
   navbar:
+    - title: Home
+      href: https://o3o.foundation/
     - title: Status
       href: /
     - title: GitHub
